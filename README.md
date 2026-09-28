@@ -451,7 +451,7 @@ See [CHANGELOG.md](CHANGELOG.md) for release history.
 
 MIT License. See [LICENSE](LICENSE).
 
-Copyright (c) 2026 Alex Ross
+Copyright (c) 2026 Darren B
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
