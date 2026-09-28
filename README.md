@@ -381,7 +381,7 @@ In Power BI Service, navigate to your workspace, find the dataset, and open **Se
 
 Click **Manually add to gateway** to create the connection.
 
-#### Step 4: Configure Gateway Connection
+#### Step 4: Configure Gateway Connection  ####
 
 In the Manage Connections page, configure your authentication. The connector supports UsernamePassword and KeyPair authentication for gateway connections.
 
